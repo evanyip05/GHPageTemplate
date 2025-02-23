@@ -6,5 +6,13 @@ Change files in: <br>
 - index.html <title>changeme</title> <br>
 
 # Build Instructions
+## build
 npm install <br>
-npm run build
+npm run build <br>
+## dev
+npm run dev <br>
+or <br>
+npm run dev -- --host <br>
+
+# Deploy Instructions
+npm run deploy
