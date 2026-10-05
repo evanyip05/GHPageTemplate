@@ -1,9 +1,8 @@
 # GH Page Template
 Made using React + Vite + TS <br>
-Change files in: <br>
-- vite.config.ts {base:changeme}
-- package.json {name:changeme, homepage:changeme}
-- index.html <title>changeme</title> <br>
+Set your project's name in **package.json** (the only place to change it): <br>
+- name: GitHub repo name, used for the Vite base path `/name/`
+- displayName: page title (index.html, and `__SITE_TITLE__` in app code)
 
 # Build Instructions
 ## build
